@@ -1,2 +1,7 @@
 # hello-world
-A Short Description
+
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript --- some others stuff!
+Anyother line to impress the trash
+
